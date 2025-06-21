@@ -3,7 +3,7 @@
 Interview Management System is a web app built using the Frappe Framework.
 It helps manage interviews easily — like adding candidates, scheduling interviews, and tracking their status.
 
-##📁 Management
+# 📁 Management
 This app is made for handling interviews. It helps teams to:
 - Add and manage candidate details
 - Schedule interviews with date and time
