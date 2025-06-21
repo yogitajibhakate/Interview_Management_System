@@ -27,8 +27,9 @@ Go to the app folder:
 cd apps/management
 pre-commit install</pre>
 
-bash
-Copy
-Edit
-pre-commit install
-# 
+# 🧹 Tools used with pre-commit
+- 🐍 ruff – Checks Python code
+- 🌐 eslint – Checks JavaScript code
+- 🎨 prettier – Formats the code to look clean
+- 🆙 pyupgrade – Updates old Python code to new style
+
