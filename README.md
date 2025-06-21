@@ -23,11 +23,9 @@ This app uses pre-commit for code formatting and linting. Please [install pre-co
 
 Go to the app folder:
 
-<pre>bash
-Copy
-Edit
-cd apps/management</pre>
-Install pre-commit:
+<pre>
+cd apps/management
+pre-commit install</pre>
 
 bash
 Copy
