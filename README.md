@@ -14,9 +14,9 @@ This app is made for handling interviews. It helps teams to:
 # ⚙️ Installation
 You can install this app using the [bench ](https://github.com/frappe/bench)CLI:
 
-<pre> ```cd $PATH_TO_YOUR_BENCH
+<pre>cd $PATH_TO_YOUR_BENCH
 bench get-app $URL_OF_THIS_REPO --branch main
-bench install-app management ```<pre>
+bench install-app management<pre>
 
 # 🤝 Contributing
 This app uses pre-commit to check and format code properly.
