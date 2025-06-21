@@ -19,15 +19,14 @@ bench get-app $URL_OF_THIS_REPO --branch main
 bench install-app management</pre>
 
 # 🤝 Contributing
-This app uses pre-commit to check and format code properly.
-If you want to contribute, follow these steps:
+This app uses pre-commit for code formatting and linting. Please [install pre-commit](https://pre-commit.com/#installation) and enable it for this repository:
 
 Go to the app folder:
 
-bash
+<pre>bash
 Copy
 Edit
-cd apps/management
+cd apps/management</pre>
 Install pre-commit:
 
 bash
